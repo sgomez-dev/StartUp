@@ -50,6 +50,7 @@ const Skills = () => {
                             <td></td>
                             <td>🟡</td>
                             <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <td>Python</td>
